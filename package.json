@@ -1,0 +1,23 @@
+{
+  "name": "typescript-head-first-design-patterns",
+  "version": "1.0.0",
+  "description": "자바의 head-first-design-patterns 을 타입스크립트로",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isntkyu/typescript-head-first-design-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isntkyu/typescript-head-first-design-patterns/issues"
+  },
+  "homepage": "https://github.com/isntkyu/typescript-head-first-design-patterns#readme",
+  "devDependencies": {
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}
