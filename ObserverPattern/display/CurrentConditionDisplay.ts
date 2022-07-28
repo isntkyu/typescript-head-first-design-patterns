@@ -11,7 +11,7 @@ export default class CurrentConditionDisplay
   private weatherData: Subject;
 
   constructor(wd: Subject) {
-    this.weatherData = wd;
+    this.weatherData = wd; // 알고는 잇어야함
     wd.registerObserver(this);
   }
 
